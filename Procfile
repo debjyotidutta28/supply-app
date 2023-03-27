@@ -1,1 +1,1 @@
-web: streamlit run script_name.py
+web: streamlit run supply-app.py
